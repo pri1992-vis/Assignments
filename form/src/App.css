@@ -51,7 +51,7 @@ background-color: limegreen ;
 @media screen and (min-width: 1025px) {
   /* Add your responsive styles here */
   body {
-    background-color:purple;
+    background-color:aquamarine;
     font-weight: bolder;
 }
 
